@@ -7,6 +7,7 @@ namespace Zad2Kalkulator
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
+    /// komentarz testowy
     public partial class App : Application
     {
     }
